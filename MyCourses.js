@@ -1,1 +1,1 @@
-console.log("Truy cập khóa học"); 
+console.log("Truy cập khóa học 1"); 
