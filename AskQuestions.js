@@ -1,0 +1,1 @@
+console.log("Chức năng hỏi câu hỏi"); 
