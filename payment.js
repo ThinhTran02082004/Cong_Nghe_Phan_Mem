@@ -1,1 +1,1 @@
-console.log("01"); 
+console.log("Chức năng thanh toán"); 
